@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Death of Jamal Khashoggi</title>
+  </head>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npr.org%2F2018%2F10%2F19%2F658947600%2Fjamal-khashoggis-complicated-history-with-the-saudi-royal-family&psig=AOvVaw2xkI8dPTLIkRt4e9Sz9lCQ&ust=1674096833077000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCH9uyO0PwCFQAAAAAdAAAAABAM" alt="Jamal Khashoggi">
+
+  <body>
+    <h1>The Death of Jamal Khashoggi</h1>
+    {
+  background-image: url("image.jpg");
+}
+    <p>Jamal Khashoggi was a Saudi Arabian journalist, author, and dissident who was murdered on October 2, 2018, at the Saudi consulate in Istanbul, Turkey. The Saudi government initially denied any involvement in his disappearance, but later admitted that he had been killed in a premeditated murder.</p>
+    <p>The international community, including the United Nations, has called for a full and transparent investigation into the murder.</p>
+  </body>
+</html>
