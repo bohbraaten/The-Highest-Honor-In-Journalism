@@ -1,22 +1,32 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>The Death of Jamal Khashoggi</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Investigative Journalism Deaths</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
     <header>
       <nav>
         <a href="#home">Home</a>
+        <a href="#jamal-khashoggi">Jamal Khashoggi</a>
+        <a href="#gary-webb">Gary Webb</a>
+        <a href="#manuel-buendia">Manuel Buendia</a>
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
     <main>
-      <h1>The Death of Jamal Khashoggi</h1>
-      <img src="jamal-khashoggi.jpg" alt="Jamal Khashoggi">
+      <h1 id="home">Investigative Journalism Deaths</h1>
+      <p>This website is dedicated to exploring the deaths of three prominent investigative journalists: Jamal Khashoggi, Gary Webb, and Manuel Buendia.</p>
+      
+      <h2 id="jamal-khashoggi">Jamal Khashoggi</h2>
+      <img src="jamal-khashoggi.jpg" alt="Jamal Khashoggi" class="image">
       <p>Jamal Khashoggi was a Saudi Arabian journalist, author, and dissident who was murdered on October 2, 2018, at the Saudi consulate in Istanbul, Turkey. The Saudi government initially denied any involvement in his disappearance, but later admitted that he had been killed in a premeditated murder.</p>
       <p>The international community, including the United Nations, has called for a full and transparent investigation into the murder.</p>
-    </main>
-  </body>
-</html>
+      <p>For more information, visit the <a href="https://en.wikipedia.org/wiki/Murder_of_Jamal_Khashoggi" target="_blank" rel="noopener" class="link">Wikipedia page</a> on the murder of Jamal Khashoggi.</p>
+      
+      <h2 id="gary-webb">Gary Webb</h2>
+      <img src="gary-webb.jpg" alt="Gary Webb" class="image">
+      <p>Gary Webb was an American investigative journalist and author who is best known for his series of articles, later turned book "Dark Alliance" which was published in 1996 by the San Jose Mercury News. He was found dead on December 10, 2004, in his Sacramento, California home, in what was officially ruled as a suicide by gunshot.</p>
+      <p>Some people believe that his death might not have been a suicide, but rather a murder in relation to his investigative work.</p>
+      <p>For more information, visit the <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank" rel="noopener" class="link">Wikipedia page</a> on Gary Webb.</p>
